@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
