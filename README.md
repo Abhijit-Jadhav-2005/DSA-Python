@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
