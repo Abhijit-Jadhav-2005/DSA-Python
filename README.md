@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
