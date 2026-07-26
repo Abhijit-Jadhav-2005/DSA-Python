@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -46,6 +49,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -63,6 +67,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
