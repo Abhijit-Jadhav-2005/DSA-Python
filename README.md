@@ -18,6 +18,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0495-teemo-attacking) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
