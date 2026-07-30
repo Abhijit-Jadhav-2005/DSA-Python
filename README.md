@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
