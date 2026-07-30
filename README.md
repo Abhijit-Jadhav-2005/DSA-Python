@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
