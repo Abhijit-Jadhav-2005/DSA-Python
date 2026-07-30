@@ -19,6 +19,7 @@
 | [0455-assign-cookies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +99,12 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
