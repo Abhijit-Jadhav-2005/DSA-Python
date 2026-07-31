@@ -23,6 +23,7 @@
 | [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,10 +58,12 @@
 | [0455-assign-cookies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +83,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
