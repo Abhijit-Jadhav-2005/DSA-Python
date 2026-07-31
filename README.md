@@ -24,6 +24,7 @@
 | [0561-array-partition](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String Matching
 |  |
 | ------- |
