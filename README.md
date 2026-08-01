@@ -25,6 +25,7 @@
 | [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0575-distribute-candies](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +64,7 @@
 | [0506-relative-ranks](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
