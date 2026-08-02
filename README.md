@@ -27,6 +27,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,10 +120,12 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0682-baseball-game) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
