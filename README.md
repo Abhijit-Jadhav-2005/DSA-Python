@@ -29,6 +29,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0035-search-insert-position](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
