@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0697-degree-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0697-degree-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
