@@ -30,6 +30,7 @@
 | [0682-baseball-game](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
