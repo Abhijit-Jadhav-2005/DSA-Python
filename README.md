@@ -31,6 +31,7 @@
 | [0697-degree-of-an-array](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
