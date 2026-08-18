@@ -32,6 +32,7 @@
 | [0704-binary-search](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +146,16 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0561-array-partition) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Abhijit-Jadhav-2005/DSA-Python/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
